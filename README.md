@@ -2,4 +2,4 @@
 
 ## _Project realizowany podczas warsztatu na kursie._
 
-### Użyte technologie: Django REST Framework, Python3.x, Django3.x, GenericAPIView, Serializers
+### Użyte technologie: Django REST Framework, Python3.x, Django3.x, Generic APIView, Serializers
